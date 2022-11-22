@@ -1,5 +1,4 @@
-def converter(x):
-    print(f"Decimal: {x} Binaire: {bin(x)} Hexadecimal: {hex(x)}")
- 
-
-converter(10)
+a=5
+b=9
+c=a+b
+print(c)
